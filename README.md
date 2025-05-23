@@ -26,7 +26,7 @@ Built with [`yt-dlp`](https://github.com/yt-dlp/yt-dlp).
 Clone the repo and install the required package:
 
 ```bash
-git clone https://github.com/yourusername/tiktok-downloader.git
+git clone https://github.com/souta78/tiktok-downloader.git
 cd tiktok-downloader
 pip install yt-dlp
 python main.py
