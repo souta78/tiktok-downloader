@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 TikTok Downloader - Video & Audio
 Simple TikTok downloader using yt-dlp for downloading videos without watermark and audio
